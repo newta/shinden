@@ -1,1 +1,1 @@
-# shinden.github.io
+# エンジニア成長を応援する
